@@ -1,0 +1,28 @@
+{
+  "name": "palera1n_gui",
+  "version": "0.0.1",
+  "description": "Palera1n helper for mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/themiya-420/palera1n_gui.git"
+  },
+  "keywords": [
+    "electron",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Themiya Induwara (themiya-420)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/themiya-420/palera1n_gui/issues"
+  },
+  "homepage": "https://github.com/themiya-420/palera1n_gui#readme",
+  "dependencies": {
+    "electron": "^33.2.0"
+  }
+}
